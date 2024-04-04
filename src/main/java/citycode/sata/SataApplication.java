@@ -9,5 +9,5 @@ public class SataApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SataApplication.class, args);
 	}
-
+   
 }
